@@ -1,0 +1,20 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+(11 + 11 = 22)
+
+// Exercise 2: Check if a Number is Even or Odd
+
+(22 divided by 2 is 22, making it an Even)
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers. 5, 7, 2, 1, 4  
+b) Calculate the average of the five numbers. 5 + 7 + 2 + 1 + 4 = 19 divided by 5 = 3.8
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers. smallest=1  largest=7
+d) Write out the results found from steps b and c with a message describing what they are
+
+(5 + 7 + 2 + 1 + 4 = 19 then divided 19 and 5 making it equal 3.8. 
+The smallest number of my 5 numbers was 1 making 7 the largest number)
+
+-- END --
